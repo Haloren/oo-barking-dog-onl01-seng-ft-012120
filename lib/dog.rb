@@ -1,6 +1,6 @@
 class Dog 
   def name
-   puts "fido"
+   puts "Fido"
   end 
   def bark
     puts "woof!"
