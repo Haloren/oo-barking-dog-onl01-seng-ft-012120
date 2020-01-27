@@ -3,4 +3,5 @@ end
 
 fido = Dog 
 fido.name = "Fido" 
-fido.name 
+# fido.name 
+# fido.bark
