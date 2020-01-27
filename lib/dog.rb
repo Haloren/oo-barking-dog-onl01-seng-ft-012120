@@ -1,6 +1,6 @@
 class Dog 
   def name
-   puts 
+   puts "fido"
   end 
   def bark
     puts "woof!"
@@ -8,6 +8,5 @@ class Dog
 end
 
 fido = Dog.new 
-# fido.name = "Fido" 
-# fido.name 
+fido.name 
 fido.bark 
