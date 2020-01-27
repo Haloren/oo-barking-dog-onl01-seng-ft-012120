@@ -1,4 +1,6 @@
 class Dog 
-  
-  
-end 
+end
+
+fido = Dog 
+fido.name = "Fido" 
+fido.name 
