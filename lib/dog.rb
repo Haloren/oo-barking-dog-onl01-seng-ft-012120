@@ -1,6 +1,9 @@
 class Dog 
-  def name
-   puts "Fido"
+  def name(fido)
+   @fido = fido 
+  end
+  def fido 
+    @fido 
   end 
   def bark
     puts "woof!"
